@@ -23,6 +23,7 @@ Technology is my passion and will always be, what I love about Technology is tha
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8210F5?&logo=Bootstrap&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-264DE4?&logo=css3&logoColor=white" />
   <img alt="html" src="https://img.shields.io/badge/-Html-F75421?&logo=Html5&logoColor=white" />
+  <img alt="react" src="https://slackmojis.com/emojis/1161-react/download" />
 </p>
 
 <h3>Where to find me</h3>
