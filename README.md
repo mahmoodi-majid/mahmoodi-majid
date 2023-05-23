@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="left">Hi 👋 Welcome to my page ! ....<br> I'm  Majid Mahmoodi, a front-end web developer living in Iran chasing my passion and building my career path.Technology is my passion and will always be, what I love about Technology is that it makes us to make a change that really matters, one that really helps people, one that can change lives and make them easier. So, with all that said I am and will be trying to learn more and more about this amazing field of science that I love in order to make all lives around this globe of ours easier, healthier and better.</h2>
 
 ###
@@ -36,13 +34,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoodi-majid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=mahmoodi-majid&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoodi-majid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/mahmoodi-majid/mahmoodi-majid/output/snake.svg" alt="Snake animation" />
 
