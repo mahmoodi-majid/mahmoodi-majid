@@ -1,38 +1,43 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
-<body>
-    <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you.</h1>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<p> 
-  Welcome to my page ! 
-</br>
-I'm  Majid Mahmoodi, a front-end web developer living in Iran chasing my passion and building my career path.
-Technology is my passion and will always be, what I love about Technology is that it makes us to make a change that really matters, one that really helps people, one that can change lives and make them easier. So, with all that said I am and will be trying to learn more and more about this amazing field of science that I love in order to make all lives around this globe of ours easier, healthier and better.
-</p>
+###
 
-<h3>The languages and tools that we spend our time together:</h3>
-<p>
-  <img alt="Javascript" src="https://img.shields.io/badge/-JS-F7E018?style=flat-square&logo=Javascript&logoColor=black" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8210F5?&logo=Bootstrap&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/-CSS-264DE4?&logo=css3&logoColor=white" />
-  <img alt="html" src="https://img.shields.io/badge/-Html-F75421?&logo=Html5&logoColor=white" />
-  <img alt="REST APIs" src="https://icons8.com/icon/Oz14KBnT7lnn/api" />
-  <img alt="react" src="https://camo.githubusercontent.com/3719b607bc4e8a6d33c25469e9610b9c47c4f0bc73d223367d2362368acd9623/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3138424345453f266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" />
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoodi-majid &hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&custom_title=dfeasdasd" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mahmoodi-majid &locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
-<h3>Where to find me</h3>
+###
 
-<a href="https://www.linkedin.com/in/majid-mahmoodi-b99aa222a/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/94702044/189377305-7062bbec-ca23-43d9-b37d-da443ea59cb7.png" alt="amir_shafikhani" height="25" width="25" /></a> &nbsp;
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+###
 
-  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
+</div>
 
-</body>
-</html>
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/mahmoodi-majid /mahmoodi-majid /output/snake.svg" alt="Snake animation" />
+
+###
