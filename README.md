@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br>I'm Majid Mahmoodi, a front-end web developer living in Iran chasing my passion and building my career path.Technology is my passion and will always be, what I love about Technology is that it makes us to make a change that really matters, one that really helps people, one that can change lives and make them easier. So, with all that said I am and will be trying to learn more and more about this amazing field of science that I love in order to make all lives around this globe of ours easier, healthier and better.</h3>
+<h3 align="left">  <br>I'm Majid Mahmoodi, a front-end web developer living in Iran chasing my passion and building my career path.Technology is my passion and will always be, what I love about Technology is that it makes us to make a change that really matters, one that really helps people, one that can change lives and make them easier. So, with all that said I am and will be trying to learn more and more about this amazing field of science that I love in order to make all lives around this globe of ours easier, healthier and better.</h3>
 
 ###
 
@@ -32,7 +32,8 @@
 </div>
 
 ###
-
+<br>
+<hr>
 <div align="center">
   <a href="http://www.linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
